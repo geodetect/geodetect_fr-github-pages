@@ -1,0 +1,496 @@
+@font-face {
+  font-family: 'anyoldicon';
+  src: url('../fonts/anyoldicon.eot');
+  src: url('../fonts/anyoldicon.eot?#iefix') format('embedded-opentype'), url('../fonts/anyoldicon.woff') format('woff'), url('../fonts/anyoldicon.ttf') format('truetype'), url('../fonts/anyoldicon.svg#anyoldicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'anyoldicon';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="anyoldicon-"] {
+*/
+.anyoldicon-anton-boshoff-headset {
+  font-family: 'anyoldicon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.anyoldicon-anton-boshoff-headset:before {
+  content: "\e034";
+}
+@font-face {
+  font-family: 'brankic1979';
+  src: url('../fonts/brankic1979.eot');
+  src: url('../fonts/brankic1979.eot?#iefix') format('embedded-opentype'), url('../fonts/brankic1979.woff') format('woff'), url('../fonts/brankic1979.ttf') format('truetype'), url('../fonts/brankic1979.svg#brankic1979') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'brankic1979';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="brankic1979-"] {
+*/
+.brankic1979-coffee,
+.brankic1979-rocket {
+  font-family: 'brankic1979';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.brankic1979-coffee:before {
+  content: "\e036";
+}
+.brankic1979-rocket:before {
+  content: "\e12b";
+}
+@font-face {
+  font-family: 'cuticons';
+  src: url('../fonts/cuticons.eot');
+  src: url('../fonts/cuticons.eot?#iefix') format('embedded-opentype'), url('../fonts/cuticons.woff') format('woff'), url('../fonts/cuticons.ttf') format('truetype'), url('../fonts/cuticons.svg#cuticons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'cuticons';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="cuticons-"] {
+*/
+.cuticons-paper-plane {
+  font-family: 'cuticons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.cuticons-paper-plane:before {
+  content: "\e045";
+}
+@font-face {
+  font-family: 'entypo';
+  src: url('../fonts/entypo.eot');
+  src: url('../fonts/entypo.eot?#iefix') format('embedded-opentype'), url('../fonts/entypo.woff') format('woff'), url('../fonts/entypo.ttf') format('truetype'), url('../fonts/entypo.svg#entypo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'entypo';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="entypo-"] {
+*/
+.entypo-dot,
+.entypo-rocket {
+  font-family: 'entypo';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.entypo-dot:before {
+  content: "\e0e0";
+}
+.entypo-rocket:before {
+  content: "\e050";
+}
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot');
+  src: url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'), url('../fonts/icomoon.woff') format('woff'), url('../fonts/icomoon.ttf') format('truetype'), url('../fonts/icomoon.svg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'icomoon';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icomoon-"] {
+*/
+.icomoon-checkmark {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.icomoon-checkmark:before {
+  content: "\e0fe";
+}
+@font-face {
+  font-family: 'typicons';
+  src: url('../fonts/typicons.eot');
+  src: url('../fonts/typicons.eot?#iefix') format('embedded-opentype'), url('../fonts/typicons.woff') format('woff'), url('../fonts/typicons.ttf') format('truetype'), url('../fonts/typicons.svg#typicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'typicons';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="typicons-"] {
+*/
+.typicons-cross {
+  font-family: 'typicons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.typicons-cross:before {
+  content: "\e005";
+}
+@font-face {
+  font-family: 'geodetect';
+  src: url('../fonts/geodetect.eot');
+  src: url('../fonts/geodetect.eot?#iefix') format('embedded-opentype'), url('../fonts/geodetect.woff') format('woff'), url('../fonts/geodetect.ttf') format('truetype'), url('../fonts/geodetect.svg#geodetect') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+  font-family: 'geodetect';
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="geodetect-"] {
+*/
+.geodetect-rss,
+.geodetect-responsive,
+.geodetect-radiocheck,
+.geodetect-post,
+.geodetect-portfolio,
+.geodetect-pinterest,
+.geodetect-photo,
+.geodetect-pen,
+.geodetect-pages,
+.geodetect-myspace,
+.geodetect-mobile,
+.geodetect-lock,
+.geodetect-list,
+.geodetect-link,
+.geodetect-lamp,
+.geodetect-label,
+.geodetect-image,
+.geodetect-imac,
+.geodetect-html5,
+.geodetect-home,
+.geodetect-google,
+.geodetect-globe,
+.geodetect-flicker,
+.geodetect-face,
+.geodetect-envelope,
+.geodetect-dribble,
+.geodetect-directionn,
+.geodetect-direction,
+.geodetect-digg2,
+.geodetect-digg,
+.geodetect-date,
+.geodetect-comments,
+.geodetect-clock2,
+.geodetect-clock,
+.geodetect-brain,
+.geodetect-blog,
+.geodetect-youtube,
+.geodetect-yahoo,
+.geodetect-wordpress,
+.geodetect-vine,
+.geodetect-video,
+.geodetect-tweet,
+.geodetect-truck,
+.geodetect-tick,
+.geodetect-telephone,
+.geodetect-stumbleupon,
+.geodetect-social-whale,
+.geodetect-socialman,
+.geodetect-social2,
+.geodetect-skype,
+.geodetect-sign,
+.geodetect-shortcodes {
+  font-family: 'geodetect';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+.geodetect-shopmenu:before {
+  content: "\e000";
+}
+.geodetect-shop:before {
+  content: "\e001";
+}
+.geodetect-settings:before {
+  content: "\e002";
+}
+.geodetect-search:before {
+  content: "\e003";
+}
+.geodetect-science:before {
+  content: "\e004";
+}
+.geodetect-sandtime:before {
+  content: "\e005";
+}
+.geodetect-rss:before {
+  content: "\e006";
+}
+.geodetect-responsive:before {
+  content: "\e007";
+}
+.geodetect-radiocheck:before {
+  content: "\e008";
+}
+.geodetect-post:before {
+  content: "\e009";
+}
+.geodetect-portfolio:before {
+  content: "\e00a";
+}
+.geodetect-pinterest:before {
+  content: "\e00b";
+}
+.geodetect-photo:before {
+  content: "\e00c";
+}
+.geodetect-pen:before {
+  content: "\e00d";
+}
+.geodetect-pages:before {
+  content: "\e00e";
+}
+.geodetect-myspace:before {
+  content: "\e00f";
+}
+.geodetect-mobile:before {
+  content: "\e010";
+}
+.geodetect-lock:before {
+  content: "\e011";
+}
+.geodetect-list:before {
+  content: "\e012";
+}
+.geodetect-link:before {
+  content: "\e013";
+}
+.geodetect-lamp:before {
+  content: "\e014";
+}
+.geodetect-label:before {
+  content: "\e015";
+}
+.geodetect-image:before {
+  content: "\e016";
+}
+.geodetect-imac:before {
+  content: "\e017";
+}
+.geodetect-html5:before {
+  content: "\e018";
+}
+.geodetect-home:before {
+  content: "\e019";
+}
+.geodetect-google:before {
+  content: "\e01a";
+}
+.geodetect-globe:before {
+  content: "\e01b";
+}
+.geodetect-flicker:before {
+  content: "\e01c";
+}
+.geodetect-face:before {
+  content: "\e01d";
+}
+.geodetect-envelope:before {
+  content: "\e01e";
+}
+.geodetect-dribble:before {
+  content: "\e01f";
+}
+.geodetect-directionn:before {
+  content: "\e020";
+}
+.geodetect-direction:before {
+  content: "\e021";
+}
+.geodetect-digg2:before {
+  content: "\e022";
+}
+.geodetect-digg:before {
+  content: "\e023";
+}
+.geodetect-date:before {
+  content: "\e024";
+}
+.geodetect-comments:before {
+  content: "\e025";
+}
+.geodetect-clock2:before {
+  content: "\e026";
+}
+.geodetect-clock:before {
+  content: "\e027";
+}
+.geodetect-brain:before {
+  content: "\e028";
+}
+.geodetect-blog:before {
+  content: "\e029";
+}
+.geodetect-youtube:before {
+  content: "\e02a";
+}
+.geodetect-yahoo:before {
+  content: "\e02b";
+}
+.geodetect-wordpress:before {
+  content: "\e02c";
+}
+.geodetect-vine:before {
+  content: "\e02d";
+}
+.geodetect-video:before {
+  content: "\e02e";
+}
+.geodetect-tweet:before {
+  content: "\e02f";
+}
+.geodetect-truck:before {
+  content: "\e030";
+}
+.geodetect-tick:before {
+  content: "\e031";
+}
+.geodetect-telephone:before {
+  content: "\e032";
+}
+.geodetect-stumbleupon:before {
+  content: "\e033";
+}
+.geodetect-social-whale:before {
+  content: "\e034";
+}
+.geodetect-socialman:before {
+  content: "\e035";
+}
+.geodetect-social2:before {
+  content: "\e036";
+}
+.geodetect-skype:before {
+  content: "\e037";
+}
+.geodetect-sign:before {
+  content: "\e038";
+}
+.geodetect-shortcodes:before {
+  content: "\e039";
+}
